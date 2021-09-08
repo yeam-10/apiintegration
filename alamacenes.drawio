@@ -1,0 +1,22 @@
+<mxfile host="65bd71144e">
+    <diagram id="jYjQeWcGK0wxVVsGrcF-" name="Page-1">
+        <mxGraphModel dx="843" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="12" value="Almacenes " style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];startSize=40;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="54" y="130" width="700" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Cantidad de productos en almacen 1" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];fillColor=#b1ddf0;strokeColor=#10739e;fontColor=#000000;" parent="12" vertex="1">
+                    <mxGeometry x="10" y="50" width="250" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Cantidad de productos en almacen 2" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];fillColor=#b1ddf0;strokeColor=#10739e;fontColor=#000000;" parent="12" vertex="1">
+                    <mxGeometry x="248" y="50" width="252" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="    Cantidad  total de productos&#10; enviadas a handy " style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];fillColor=#b1ddf0;strokeColor=#10739e;fontColor=#000000;" parent="12" vertex="1">
+                    <mxGeometry x="488" y="50" width="202" height="210" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
